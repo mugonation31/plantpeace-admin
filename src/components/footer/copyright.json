@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_footer_copyrights",
+  "info": {
+    "displayName": "copyright",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "logo": {
+      "displayName": "logo",
+      "type": "component",
+      "repeatable": false,
+      "component": "footer.logo"
+    },
+    "rights": {
+      "displayName": "rights",
+      "type": "component",
+      "repeatable": false,
+      "component": "footer.rights"
+    }
+  }
+}

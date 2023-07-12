@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_nav_icon_wrappers",
+  "info": {
+    "displayName": "iconWrapper"
+  },
+  "options": {},
+  "attributes": {
+    "icon": {
+      "displayName": "icon",
+      "type": "component",
+      "repeatable": true,
+      "component": "nav.icon"
+    }
+  }
+}

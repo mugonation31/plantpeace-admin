@@ -1,0 +1,27 @@
+{
+  "kind": "singleType",
+  "collectionName": "refreshes",
+  "info": {
+    "singularName": "refresh",
+    "pluralName": "refreshes",
+    "displayName": "refresh",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "products": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::product.product"
+    }
+  }
+}

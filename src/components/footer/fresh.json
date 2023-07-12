@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_footer_freshes",
+  "info": {
+    "displayName": "fresh"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "email": {
+      "type": "email"
+    },
+    "contact": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_grow_grows",
+  "info": {
+    "displayName": "grow"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "growSteps": {
+      "displayName": "growSteps",
+      "type": "component",
+      "repeatable": true,
+      "component": "grow.grow-steps"
+    }
+  }
+}

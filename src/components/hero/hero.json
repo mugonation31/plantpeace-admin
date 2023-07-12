@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_hero_heroes",
+  "info": {
+    "displayName": "hero"
+  },
+  "options": {},
+  "attributes": {
+    "quote": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "btnLabel": {
+      "type": "string"
+    },
+    "btnUrl": {
+      "type": "string"
+    },
+    "footer": {
+      "type": "string"
+    }
+  }
+}

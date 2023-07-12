@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_newsletter_subscribes",
+  "info": {
+    "displayName": "subscribe"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "email": {
+      "type": "email"
+    },
+    "btnLabel": {
+      "type": "string"
+    },
+    "btnUrl": {
+      "type": "string"
+    }
+  }
+}

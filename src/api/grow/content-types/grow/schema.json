@@ -1,0 +1,29 @@
+{
+  "kind": "singleType",
+  "collectionName": "grows",
+  "info": {
+    "singularName": "grow",
+    "pluralName": "grows",
+    "displayName": "grow",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "grow": {
+      "displayName": "grow",
+      "type": "component",
+      "repeatable": false,
+      "component": "grow.grow"
+    },
+    "gallery": {
+      "type": "dynamiczone",
+      "components": [
+        "grow.gallery",
+        "grow.gallery-detail"
+      ]
+    }
+  }
+}

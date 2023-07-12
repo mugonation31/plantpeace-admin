@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "cat_types",
+  "info": {
+    "singularName": "cat-type",
+    "pluralName": "cat-types",
+    "displayName": "catType"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}

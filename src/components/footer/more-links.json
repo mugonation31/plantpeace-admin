@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_footer_more_links",
+  "info": {
+    "displayName": "moreLinks"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    }
+  }
+}

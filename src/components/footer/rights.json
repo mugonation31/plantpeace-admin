@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_footer_rights",
+  "info": {
+    "displayName": "rights"
+  },
+  "options": {},
+  "attributes": {
+    "reserved": {
+      "type": "string"
+    }
+  }
+}

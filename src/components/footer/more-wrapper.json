@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_footer_more_wrappers",
+  "info": {
+    "displayName": "moreWrapper"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "moreLinks": {
+      "displayName": "moreLinks",
+      "type": "component",
+      "repeatable": true,
+      "component": "footer.more-links"
+    }
+  }
+}

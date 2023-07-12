@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_footer_footers",
+  "info": {
+    "displayName": "footer",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "fresh": {
+      "displayName": "fresh",
+      "type": "component",
+      "repeatable": false,
+      "component": "footer.fresh"
+    },
+    "more": {
+      "displayName": "moreWrapper",
+      "type": "component",
+      "repeatable": true,
+      "component": "footer.more-wrapper"
+    }
+  }
+}
