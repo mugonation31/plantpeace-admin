@@ -12,23 +12,23 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "nav": {
+    "Logo": {
       "displayName": "logo",
       "type": "component",
       "repeatable": false,
       "component": "nav.logo"
     },
-    "linkWrapper": {
-      "displayName": "linkWrapper",
+    "Links": {
+      "displayName": "Links",
       "type": "component",
-      "repeatable": false,
-      "component": "nav.link-wrapper"
+      "repeatable": true,
+      "component": "nav.links"
     },
-    "iconWrapper": {
-      "displayName": "iconWrapper",
+    "Icons": {
+      "displayName": "Icons",
       "type": "component",
-      "repeatable": false,
-      "component": "nav.icon-wrapper"
+      "repeatable": true,
+      "component": "nav.icons"
     }
   }
 }
