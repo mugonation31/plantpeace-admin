@@ -1,17 +1,12 @@
 {
-  "collectionName": "components_nav_icons",
+  "collectionName": "components_nav_icons_new",
   "info": {
     "displayName": "Icons"
   },
   "options": {},
   "attributes": {
     "image": {
-      "allowedTypes": [
-        "images",
-        "files",
-        "videos",
-        "audios"
-      ],
+      "allowedTypes": ["images", "files", "videos", "audios"],
       "type": "media",
       "multiple": false
     },
